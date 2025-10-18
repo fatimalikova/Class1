@@ -1,0 +1,14 @@
+C:\Users\fatimakhm\source\repos\classtasks12.10\classtasks12.10\obj\Debug\net8.0\classtasks12.10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatimakhm\source\repos\classtasks12.10\classtasks12.10\obj\Debug\net8.0\classtasks12.10.AssemblyInfoInputs.cache
+C:\Users\fatimakhm\source\repos\classtasks12.10\classtasks12.10\obj\Debug\net8.0\classtasks12.10.AssemblyInfo.cs
+C:\Users\fatimakhm\source\repos\classtasks12.10\classtasks12.10\obj\Debug\net8.0\classtasks12.10.csproj.CoreCompileInputs.cache
+C:\Users\fatimakhm\source\repos\classtasks12.10\classtasks12.10\bin\Debug\net8.0\classtasks12.10.exe
+C:\Users\fatimakhm\source\repos\classtasks12.10\classtasks12.10\bin\Debug\net8.0\classtasks12.10.deps.json
+C:\Users\fatimakhm\source\repos\classtasks12.10\classtasks12.10\bin\Debug\net8.0\classtasks12.10.runtimeconfig.json
+C:\Users\fatimakhm\source\repos\classtasks12.10\classtasks12.10\bin\Debug\net8.0\classtasks12.10.dll
+C:\Users\fatimakhm\source\repos\classtasks12.10\classtasks12.10\bin\Debug\net8.0\classtasks12.10.pdb
+C:\Users\fatimakhm\source\repos\classtasks12.10\classtasks12.10\obj\Debug\net8.0\classtasks12.10.dll
+C:\Users\fatimakhm\source\repos\classtasks12.10\classtasks12.10\obj\Debug\net8.0\refint\classtasks12.10.dll
+C:\Users\fatimakhm\source\repos\classtasks12.10\classtasks12.10\obj\Debug\net8.0\classtasks12.10.pdb
+C:\Users\fatimakhm\source\repos\classtasks12.10\classtasks12.10\obj\Debug\net8.0\classtasks12.10.genruntimeconfig.cache
+C:\Users\fatimakhm\source\repos\classtasks12.10\classtasks12.10\obj\Debug\net8.0\ref\classtasks12.10.dll
